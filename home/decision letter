@@ -1,0 +1,127 @@
+Dear Dr. Yuan:
+I am writing with a decision about your manuscript # 2023-Jan-TGIS-RSA-3113 entitled "Space-time path construction and analysis of polygon moving objects based on time geography: A case study of crime point set data in City of London" which you submitted to Transactions in GIS.
+我写这封信是为了决定您提交给GIS Transactions的论文# 2023-Jan-TGIS-RSA-3113，题为“基于时间地理的多边形移动物体的时空路径构建和分析:伦敦金融城犯罪点集数据的案例研究”。
+Following the comments of the reviewer(s) found at the bottom of this letter, we have made the decision not to publish your manuscript in Transactions in GIS. While the reviewers found some positive aspects to the paper there are some other issues which I believe will take a longer time to resolve and rework. It is because of these issues that I believe the overall scope of the revisions required is beyond 'major revisions'. I do hope that the reviewer comments are useful to you in revising this work for future manuscripts. 
+根据这封信底部审稿人的意见，我们决定不在Transactions in GIS上发表您的手稿。虽然审稿人发现了这篇论文的一些积极方面，但我认为还有一些其他问题需要更长的时间来解决和修改。正是由于这些问题，我认为需要修订的总体范围超出了“重大修订”的范围。我真的希望审稿人的意见对你在修改这项工作为将来的手稿有用。
+Thank you for considering us for the publication of your research.  I hope the outcome of this specific submission will not discourage you from submitting future manuscripts.
+感谢您考虑让我们发表您的研究成果。我希望这次提交的结果不会阻止你以后再提交手稿。
+
+Wiley Editing Services Available to All Authors
+Should you be interested, Wiley Editing Services offers expert help with manuscript, language, and format editing, along with other article preparation services. You can learn more about this service option at www.wileyauthors.com/eeo/preparation. You can also check out Wiley’s collection of free article preparation resources for general guidance about writing and preparing your manuscript at www.wileyauthors.com/eeo/prepresources.
+Wiley编辑服务提供给所有作者 
+如果您感兴趣，Wiley编辑服务提供专家帮助稿件，语言和格式编辑，以及其他文章准备服务。您可以在www.wileyauthors.com/eeo/preparation上了解更多有关此服务选项的信息。你也可以在www.wileyauthors.com/eeo/prepresources上查看Wiley收集的免费文章准备资源，以获得关于写作和准备手稿的一般指导。
+
+
+Sincerely,
+
+Dr. Peter Mooney
+Regional Editor, Transactions in GIS
+peter.mooney@nuim.ie
+
+
+Reviewer(s)' Comments to Author:
+
+Reviewer: 1
+
+Comments to the Author
+The authors propose a space-time path construction and analysis of polygon moving objects based on time geography. This method is applied to crime point set data in City of London.
+对作者的评论 
+提出了一种基于时间地理的多边形运动目标时空路径构建与分析方法。将该方法应用于伦敦金融城的犯罪点集数据。
+
+The contribution is of interest for the field and present interesting novelties. The proposed method is detailed and reproducible. Experiments are convincing.
+该贡献是该领域的兴趣和目前有趣的新奇事物。该方法详细，重现性好。实验是有说服力的。
+However, I have the following main comments:
+
+1) The paper suffers from its presentation. Please use the template of the journal. Please improve the quality of the images in Figure 3 and Figure 4. In Figure 7, please enlarge the two sub-figures. CIting authors in the text, please only indicate the name (not the first name). 
+2) Please check the paper with a Native english to be more fluent.
+3) About perspectives, I suggest the authors to indicate that graph signal processing methods could be surely applied in this field. Please see suggested fundamental papers and applied papers in COVID-19 and moving objects :
+不过，我有以下主要看法: 
+1)这篇论文的表述有问题。请使用日记账模板。请改进图3和图4中的图像的质量。在图7中，请放大两个子图。在文中引用作者时，请只注明作者的名字(不要用名字)。 
+2)请用英语母语检查试卷，以便更流利。 
+3)关于前景，我建议作者指出图信号处理方法在这一领域有一定的应用前景。请参阅建议的COVID-19和移动物体的基础论文和应用论文: 
+
+Fundamentals:
+A. Ortega, et al. , "Graph Signal Processing: Overview, Challenges, and Applications”, Proceedings of the IEEE, Volume 106, No. 5, pages 808-828, May 2018.
+J. Giraldo, et al., "Reconstruction of Time-varying Graph Signals via Sobolev Smoothness", IEEE Transactions on Signal and Information Processing Over Networks, March 2022.
+Y. Tanaka, et al. "Sampling on Graphs: From Theory to Applications", IEEE Signal Processing Magazine, Volume 37, No.6, pages 14-30, November 2020.
+Applied GSP with success:
+J. Giraldo et al. , "On the Minimization of Sobolev Norms of Time-Varying Graph Signals: Estimation of New Coronavirus Disease 2019 Cases," 2020 IEEE 30th International Workshop on Machine Learning for Signal Processing (MLSP), Espoo, Finland, 2020, pp. 1-6,
+J. Giraldo, S. Javed, M. Sultana et al.. "The Emerging Field of Graph Signal Processing for Moving Object Segmentation", International Workshop on Frontiers of Computer Vision (2021).
+
+
+
+
+Reviewer: 2
+
+Comments to the Author
+The purpose of this paper is to quantify the spatiotemporal patterns presented by criminal behavior using the method of constructing space-time paths. Considering the difficulty of obtaining criminal behavior data, this method is a practical exploration for extracting and summarizing regional crime.However, there are some problems that must be solved before it is considered for publication.
+对作者的评论
+
+本文的目的是利用构建时空路径的方法来量化犯罪行为所呈现的时空模式。考虑到犯罪行为数据获取的难度，该方法是抽取和总结区域犯罪的一种实践探索。然而，在考虑出版之前，还有一些问题必须解决。
+(1) The article needs to be further polished in language, such as word errors and grammatical mistakes, especially in the background part. In addition, please pay attention to reducing self-citation if it is unnecessary or replaceable considering academic ethics.
+(1)文章在语言上需要进一步打磨，如用词错误、语法错误，尤其是背景部分。此外，考虑到学术道德，如果自我引用是不必要的或可替代的，请注意减少。
+(2) The research method is based on previous research on infectious diseases. However, the availability of this method used on this different topic is doubtful. The differences between the occurrence of criminal cases and the spread of infectious cases are lack of identification. The movement mechanisms of these two study subjects need to be further explored. For example, is the cross-city spread of the virus brought about by population migration the same as the change in the crime sites brought about by the movement of criminals to commit crimes? It is a suggestion to introduce the discourse and literature on the logic of crime and clarify the methodological adjustments brought about by the different objects of study. In addition, it would be interesting to expand the method to explore the possibility of consecutive crimes committed by the same offender.
+研究方法是基于以往对传染病的研究。然而，在这个不同的主题上使用这种方法的可用性是值得怀疑的。刑事案件的发生与传染病案件的传播的区别在于缺乏识别。这两个研究对象的运动机制有待进一步探讨。例如，人口迁移所带来的病毒跨城市传播，是否与犯罪分子流动犯罪所带来的犯罪地点变化相同?建议引入犯罪逻辑的论述和文献，澄清研究对象的不同所带来的方法论上的调整。此外，扩大方法以探讨同一罪犯连续犯罪的可能性将是有趣的。
+(3) This paper relies on the path model in temporal geography but is different from the individual movement path described in the Hagerstrand original model. Based on the suggestion above, more caution should be exercised in describing the movement of control points as spatiotemporal paths.The relationship between crime centers (control points) at different times is relatively weak and there is no causal relationship, so the geographical significance represented by the connection of points does not represent a path, but only the spatial relationship between points. Therefore, it is hoped to add the feasibility and rationality part in the theoretical description. 
+本文依赖于时间地理中的路径模型，但不同于Hagerstrand原始模型中描述的个体运动路径。基于以上建议，在将控制点的运动描述为时空路径时应更加谨慎。犯罪中心(控制点)在不同时间之间的关系相对较弱，不存在因果关系，因此点之间的联系所代表的地理意义并不代表一条路径，而只是点之间的空间关系。因此，希望在理论描述中增加可行性和合理性部分。
+(4) The authors describe the contribution of this paper as extending the application of the time geographic framework from discrete point data for point objects to discrete point setdata for polygon objects. Considering that this method is still not mature enough and needs more empirical studies for verification, the contribution has been overstated. Finally, discussing and criticizing the limitations of this method is necessary.
+作者将这篇论文的贡献描述为将时间地理框架的应用从点对象的离散点数据扩展到多边形对象的离散点集数据。考虑到该方法还不够成熟，需要更多的实证研究来验证，其贡献被夸大了。最后，讨论和批评这种方法的局限性是必要的。
+
+Reviewer: 3
+
+Comments to the Author
+This manuscript's strength is in its development of a novel approach towards representing a series of cross-sectional point patterns as a trajectory. The logic in the approach/methodology is generally sound. The methodology relies on summary measures of position for a given point pattern (these are patterns of crimes by type on a monthly scale) to reduce the dimensionality of the point pattern to a single representative location for each monthly duration/period of observation. Each representative location is then treated as a space-time anchor (per Time Geography) in a Trajectory.
+对作者的评论 
+这篇手稿的优势在于它发展了一种新的方法来表示一系列的横截面点模式作为轨迹。该方法/方法论的逻辑总体上是合理的。该方法依赖于对某一特定点模式(按类型分列的每月犯罪模式)的位置的总结测量，以便将点模式的维度降低到每个月观察期间/期间的单一代表性位置。然后将每个代表性位置视为轨迹中的时空锚(每个时间地理)。
+
+Once the Trajectory is constructed, the Authors further provide for a decomposition of the Trajectory as a set of vectors, where summary measures of length and direction by crime type provide for comparison on general trends in spatial displacement of a crime type over time. For example, given the data and the methodology, the Authors may identify that central measures for "Burglaries" are moving generally "East" in their London Study area. Rose diagrams provide a great visual tool for communicating this kind of displacement over time. These are the paper's strengths.
+一旦构建了轨迹，作者进一步将轨迹分解为一组向量，其中按犯罪类型对长度和方向的总结测量可用于比较犯罪类型随时间的空间位移的一般趋势。例如，根据数据和方法，作者可能会发现，在他们的伦敦研究地区，“入室盗窃”的中心措施正在普遍“向东”移动。玫瑰图提供了一种很好的可视化工具，用于随着时间的推移传达这种位移。这些都是该论文的优点。
+However, the paper is very difficult to read overall, suffers from grammatical errors that are significant enough at times to introduce confusion, and contains passages which I found to be both of little relevance and poorly cited. Review by additional colleagues before the next submission will definitely help here:
+然而，这篇论文整体上很难阅读，语法错误严重到有时会引起混乱，其中的段落我发现相关性很小，引用也很少。在下次提交之前，其他同事的审阅肯定会有帮助:
+page 3 of 33 - ...is still stuck in the construction of space-time paths... Is this true given Yin 2021?
+
+page 3 of 33 - ...the law of crime movement... I'm not sure this concept was properly introduced.
+
+page 4 of 33 - ...These earlier studies advance further contributions of this paper... Not sure of the necessity of this type of statement.
+
+page 5 of 33 - ...of mobile objects based on determined spatiotemporal information... Pre-Determined information?
+33页第3页-…仍然困在时空路径的建构中…考虑到2021年的阴，这是真的吗? 
+33页第3页-…犯罪运动的规律……我不确定这个概念是否被恰当地引入。 
+第4页，33页-…这些早期的研究推动了本文的进一步贡献。不确定这种说法的必要性。
+
+page 5 of 33 - ...The space-time prism expresses the set of potential space-time paths of the mobile object under the constraints of two spatiotemporal anchor points... Grammatically, this is confusing - perhaps ...the set of potential space-time paths of the mobile object given the space-time locations of two anchor points and apriori limits on the objects top speed, turning angles, etc?
+
+page 7 of 33 - However, criminals' trajectory data are brief because the social rule of law responds to individual crimes and prohibits people from committing further crimes. - I'm not sure this is relevant, or even entirely correct about movement and crime. It's not supported by any citation etc. at this point in the narrative.
+
+page 12 of 33 - ...For a given crime type, the control points used to construct the space-time path use center... - This statement isn't communicating particularly well for my Read of the manuscript.
+
+33页第5页-…时空棱镜表达了移动物体在两个时空锚点约束下的潜在时空路径集。从语法上讲，这很令人困惑——也许……给定两个锚点的时空位置和物体的最高速度、转弯角度等的先验限制，移动物体的潜在时空路径集? 
+第7页33 -然而，罪犯的轨迹数据是简短的，因为社会法治对个人犯罪作出反应，并禁止人们进一步犯罪。-我不确定这是否相关，甚至不确定这是否完全正确。在叙述的这一点上，它没有任何引用等支持。 
+33页第12页-…对于给定的犯罪类型，用来构建时空路径的控制点使用中心…-这个陈述对我阅读手稿来说不是很好。
+
+In any case, additional review by colleagues will improve these concerns. Here are some other general comments on the manuscript:
+
+The representation in works cited appears highly bi-modal in that seminal works on Time Geography (1970s) are juxtaposed with relatively recent (last 4-5 years) publications, at a general lack of acknowledgement for developments in between. Please consider for example these intermediate-era contributions:
+
+在任何情况下，同事的额外审查将改善这些担忧。以下是对手稿的一些其他一般性评论: 
+被引用的作品呈现出高度的双模态，因为关于时间地理学的开创性作品(20世纪70年代)与相对较近的(过去4-5年)出版物并放在一起，对两者之间的发展普遍缺乏承认。例如，请考虑以下中间时代的贡献:
+
+Dodge, S., Weibel, R., Ahearn, S. C., Buchin, M., & Miller, J. A. (2016). Analysis of movement data. International Journal of Geographical Information Science, 30(5), Article 5. https://doi.org/10.1080/13658816.2015.1132424
+Downs, J., Horner, M. W., Hyzer, G., Lamb, D., & Loraamm, R. (2014). Voxel-based probabilistic space-time prisms for analysing animal movements and habitat use. International Journal of Geographical Information Science, 28(5), Article 5. https://doi.org/10.1080/13658816.2013.850170
+Huisman, O., & Forer, P. (1998). Computational agents and urban life spaces: A preliminary realisation of the time-geography of student lifestyles. Proceedings of the Third International Conference on GeoComputation, 17-19 September 1998, Bristol, UK 18 p.
+Kuijpers, B., & Othman, W. (2017). The geometry of space-time prisms with uncertain anchors. International Journal of Geographical Information Science, 31(9), Article 9. https://doi.org/10.1080/13658816.2017.1319950
+Long, J. A., Weibel, R., Dodge, S., & Laube, P. (2018). Moving ahead with computational movement analysis. International Journal of Geographical Information Science, 32(7), Article 7. https://doi.org/10.1080/13658816.2018.1442974
+Miller, H. J. (2005). A Measurement Theory for Time Geography. Geographical Analysis, 37(1), Article 1. https://doi.org/10.1111/j.1538-4632.2005.00575.x
+Winter, S., & Yin, Z.-C. (2011). The elements of probabilistic time geography. GeoInformatica, 15(3), Article 3. https://doi.org/10.1007/s10707-010-0108-1
+
+
+Additionally, no consideration has been given to the dynamic and varied context that is the London study area in terms of the operation of the method. The result is an unacknowledged assumption that crime patterns are homogeneous in the study area. 
+
+Further, Crime Events are not always finalized at a single location, or appropriately represented as a point location. For example, a burglary event may evolve in space and time from safe-house, to target property, to getaway, to sale of stolen goods. The model of the Crime event adopted by this manuscript is static and final.
+
+此外，在该方法的操作方面，没有考虑到伦敦研究地区的动态和变化的背景。其结果是一个未被承认的假设，即犯罪模式在研究区域是同质的。 
+此外，Crime Events并不总是在单个位置完成，或适当地表示为一个点位置。例如，入室盗窃事件可能在空间和时间上从安全屋演变到目标财产，再到逃跑，再到出售赃物。本文所采用的犯罪事件模型是静态的、最终的。
+
+Again I do believe the point pattern dimensionality reduction approach, paired with vector measures for trend identification is a contribution. I do believe the presentation needs improvement.
+
+我再次相信点模式降维方法，与趋势识别的向量测量相结合是一种贡献。我确实认为演讲需要改进。
